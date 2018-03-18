@@ -1,0 +1,9 @@
+C:\Users\Alexandr\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Release\Testwork.exe.config
+C:\Users\Alexandr\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Release\Testwork.exe
+C:\Users\Alexandr\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Release\Testwork.pdb
+C:\Users\Alexandr\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.Form1.resources
+C:\Users\Alexandr\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Release\Testwork.Properties.Resources.resources
+C:\Users\Alexandr\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.csproj.GenerateResource.Cache
+C:\Users\Alexandr\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Alexandr\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Release\Testwork.exe
+C:\Users\Alexandr\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Release\Testwork.pdb

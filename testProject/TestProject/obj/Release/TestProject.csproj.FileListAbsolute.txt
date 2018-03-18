@@ -1,0 +1,10 @@
+C:\Users\Alexandr\source\repos\WindowsFormsApp2\TestProject\bin\Release\TestProject.exe.config
+C:\Users\Alexandr\source\repos\WindowsFormsApp2\TestProject\bin\Release\TestProject.exe
+C:\Users\Alexandr\source\repos\WindowsFormsApp2\TestProject\bin\Release\TestProject.pdb
+C:\Users\Alexandr\source\repos\WindowsFormsApp2\TestProject\obj\Release\WindowsFormsApp2.Form1.resources
+C:\Users\Alexandr\source\repos\WindowsFormsApp2\TestProject\obj\Release\TestProject.Properties.Resources.resources
+C:\Users\Alexandr\source\repos\WindowsFormsApp2\TestProject\obj\Release\TestProject.csproj.GenerateResource.Cache
+C:\Users\Alexandr\source\repos\WindowsFormsApp2\TestProject\obj\Release\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\Alexandr\source\repos\WindowsFormsApp2\TestProject\obj\Release\TestProject.exe
+C:\Users\Alexandr\source\repos\WindowsFormsApp2\TestProject\obj\Release\TestProject.pdb
+C:\Users\Alexandr\source\repos\WindowsFormsApp2\TestProject\obj\Release\TestProject.csprojResolveAssemblyReference.cache

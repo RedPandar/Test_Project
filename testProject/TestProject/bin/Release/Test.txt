@@ -1,0 +1,8 @@
+text 2 
+string 1 
+System 1 
+IO 1 
+File 1 
+ReadAllText 1 
+sents 1 
+Split 1 
